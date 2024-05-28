@@ -1,0 +1,235 @@
+.tela-3 .adicionar-turmas {
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    margin: 0 0 100px 261.9px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+  }
+  .tela-3 .rectangle-3 {
+    border-radius: 46px;
+    background: #D9D9D9;
+    width: 871px;
+    height: 674px;
+  }
+  .tela-3 .container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 871px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .tela-3 .rectangle-4 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+    background: #C9FFEF;
+    position: absolute;
+    top: 223px;
+    right: 543px;
+    width: 338px;
+    height: 71px;
+  }
+  .tela-3 .adicionar-salas {
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    transform: rotate(179.581deg);
+    position: absolute;
+    left: 50%;
+    top: 236px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 36px;
+    color: #000000;
+  }
+  .tela-3 .rectangle-1 {
+    background: #C9FFEF;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    height: 116px;
+  }
+  .tela-3 .adicionar-periodos {
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    position: absolute;
+    left: 343px;
+    top: 58px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+  }
+  .tela-3 .adicionar-horarios-ex-1430 {
+    border: 1px solid #000000;
+    position: absolute;
+    top: 53px;
+    right: 418.2px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+  }
+  .tela-3 .adicionar-materias {
+    border: 1px solid #000000;
+    position: absolute;
+    top: 58px;
+    right: 271.5px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+  }
+  .tela-3 .adicionar-salas-1 {
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    position: absolute;
+    left: 665px;
+    top: 58px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+  }
+  .tela-3 .adicionar-professores {
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    position: absolute;
+    left: 494px;
+    top: 58px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+  }
+  .tela-3 .rectangle-2 {
+    border-radius: 38px;
+    background: #D9D9D9;
+    position: absolute;
+    top: 29px;
+    right: 87px;
+    width: 154px;
+    height: 76px;
+  }
+  .tela-3 .gerar-horario {
+    border: 1px solid #000000;
+    position: absolute;
+    top: 58px;
+    right: 119.5px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+  }
+  .tela-3 .solucao-para-horario-escolar {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    position: absolute;
+    left: 32px;
+    top: 18px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 36px;
+    color: #000000;
+  }
+  .tela-3 .rectangle-8 {
+    border-radius: 8px;
+    background: #FFFBFB;
+    position: absolute;
+    right: 418px;
+    bottom: 306px;
+    width: 286px;
+    height: 58px;
+  }
+  .tela-3 .adicionar-sala {
+    position: absolute;
+    right: 480.4px;
+    bottom: 321px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+  }
+  .tela-3 .rectangle-7 {
+    border-radius: 8px;
+    background: #FFFBFB;
+    position: absolute;
+    left: 416px;
+    bottom: 306px;
+    width: 286px;
+    height: 58px;
+  }
+  .tela-3 .id-da-sala {
+    position: absolute;
+    left: 441px;
+    top: 400px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+  }
+  .tela-3 .rectangle-5 {
+    border-radius: 8px;
+    background: #FFFBFB;
+    position: absolute;
+    left: 50%;
+    top: 386px;
+    translate: -50% 0;
+    width: 286px;
+    height: 58px;
+  }
+  .tela-3 .capacidade {
+    position: absolute;
+    left: 416px;
+    top: 50%;
+    translate: 0 -50%;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+  }
+  .tela-3 .rectangle-6 {
+    border-radius: 8px;
+    background: #FFFBFB;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    translate: -50% -50%;
+    width: 286px;
+    height: 58px;
+  }
+  .tela-3 .exibir-editar-salas {
+    position: absolute;
+    left: 457px;
+    bottom: 321px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+  }
+  .tela-3 {
+    background: #FFFFFF;
+    display: flex;
+    padding: 58px 1px 0 0;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  
